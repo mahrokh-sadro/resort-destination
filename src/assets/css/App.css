@@ -1,0 +1,10 @@
+/******** FOOOTER ********/
+footer {
+  background-color: rgb(3, 37, 65);
+  color: white;
+  text-align: center;
+}
+
+footer p {
+  padding: 16px 0px 0px 0px;
+}
